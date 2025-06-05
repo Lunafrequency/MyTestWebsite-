@@ -1,3 +1,3 @@
-#My simple site!
+# My simple site!
 
 It is a site for my class
